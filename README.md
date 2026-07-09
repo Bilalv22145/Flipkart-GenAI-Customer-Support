@@ -67,6 +67,13 @@ The final LightGBM model was interpreted using SHAP (SHapley Additive Explanatio
   <img src="SHAP_Summary.png" width="850">
 </p>
 
+### Recommended AI Operating Model
+
+The analytical findings were translated into a practical AI operating framework that recommends different levels of automation based on workflow complexity, business risk, and operational requirements.
+
+<p align="center">
+  <img src="AI_Operating_Model.png" width="850">
+</p>
 ---
 
 ## Key Findings
