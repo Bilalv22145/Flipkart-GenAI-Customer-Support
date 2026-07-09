@@ -47,6 +47,18 @@ The project followed an end-to-end business analytics workflow:
 7. Explainable AI using SHAP
 8. Strategic Business Recommendations
 
+### Workflow Prioritization
+
+<p align="center">
+  <img src="Workflow_Prioritization_Matrix.png" width="850">
+</p>
+
+### Machine Learning Validation
+
+<p align="center">
+  <img src="ROC_Confusion_Matrix.png" width="850">
+</p>
+
 ---
 
 ## Key Findings
@@ -57,9 +69,6 @@ The project followed an end-to-end business analytics workflow:
 - Operational characteristics contain meaningful predictive information for customer satisfaction.
 - The greatest opportunity for Generative AI lies in augmenting operational workflows rather than replacing customer support agents.
 
-- <p align="center">
-  <img src="Workflow_Prioritization_Matrix.png" width="850">
-</p>
 
 ---
 
@@ -72,6 +81,8 @@ The project followed an end-to-end business analytics workflow:
 - Scikit-learn
 - LightGBM
 - SHAP
+
+
 
 ---
 
