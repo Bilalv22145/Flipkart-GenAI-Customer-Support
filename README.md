@@ -1,5 +1,13 @@
 # Beyond the Ticket: Identifying High-Impact Generative AI Opportunities in Customer Support
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![LightGBM](https://img.shields.io/badge/LightGBM-ML-green)
+
+![SHAP](https://img.shields.io/badge/Explainable_AI-SHAP-orange)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Project Overview
 
 This project develops a business analytics framework for identifying where Generative AI can deliver the greatest operational value within Flipkart's customer support organization.
