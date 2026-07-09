@@ -59,6 +59,14 @@ The project followed an end-to-end business analytics workflow:
   <img src="ROC_Confusion_Matrix.png" width="850">
 </p>
 
+### Explainable AI (SHAP)
+
+The final LightGBM model was interpreted using SHAP (SHapley Additive Explanations), allowing feature contributions to be visualized and validating that the model relied on meaningful operational characteristics rather than random patterns.
+
+<p align="center">
+  <img src="SHAP_Summary.png" width="850">
+</p>
+
 ---
 
 ## Key Findings
